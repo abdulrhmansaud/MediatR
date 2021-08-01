@@ -5,8 +5,7 @@ namespace Mediator.Dtos
 {
     public class BookReadDto
     {
-        public int id { get; set;}
-
+     
         public string Title { get; set; }
 
         public string Description { get; set; }

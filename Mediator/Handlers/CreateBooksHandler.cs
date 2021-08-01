@@ -24,7 +24,6 @@ namespace Mediator.Handlers
         public async Task<BookReadDto> Handle(CreateBookCommands request, CancellationToken cancellationToken)
         {
           book books = new book(); 
-          books.Id = request.Id;
           books.Title = request.Title;
           books.Description = request.Description;
           books.Author = request.Author;
