@@ -1,0 +1,17 @@
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/appsettings.Development.json
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/appsettings.json
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/Mediator.dll
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/Mediator.runtimeconfig.json
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/Mediator.pdb
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/AutoMapper.dll
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/MediatR.dll
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/Microsoft.EntityFrameworkCore.dll
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/Microsoft.Extensions.DependencyInjection.dll
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/MySqlConnector.dll
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/System.Diagnostics.DiagnosticSource.dll
+/Users/abdulrhmansaud/Desktop/designPattern/Mediator/Mediator/bin/Debug/net5.0/publish/Mediator.deps.json

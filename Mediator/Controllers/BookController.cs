@@ -31,7 +31,7 @@ namespace Mediator.Controllers
        }
 
        [HttpGet("{id}")]
-       public async Task< ActionResult> getBooksById(int id){
+       public async Task<ActionResult> getBooksById(int id){
          
           var query = new GetBooksByIdQuery(id);
           var result = await _mediator.Send(query);

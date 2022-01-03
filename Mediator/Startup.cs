@@ -16,6 +16,7 @@ using Mediator.Data;
 using MediatR;
 using Mediator.Commands;
 using System.Reflection;
+using Hangfire;
 
 namespace Mediator
 {
@@ -32,9 +33,11 @@ namespace Mediator
         public void ConfigureServices(IServiceCollection services)
         {
 
-            string dbConnectionString = Configuration.GetConnectionString("default");
-            services.AddDbContext<Dbconnect>(opt => opt.UseMySql(dbConnectionString, 
-            ServerVersion.AutoDetect(dbConnectionString)));
+
+            var connection = Configuration.GetConnectionString("default");
+            services.AddDbContext<Dbconnect> (options => options.UseSqlServer(connection));;
+            services.AddHangfire(opt => opt.UseSqlServerStorage(connection));
+
 
             services.AddControllers();
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
